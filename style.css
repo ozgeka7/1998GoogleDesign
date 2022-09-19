@@ -1,0 +1,55 @@
+.logo {
+    text-align:center ;
+    padding: 250px 50px 0px 50px;
+}
+
+
+.search{
+    text-align: center;
+    padding: 20px;
+     background-color: #EEEEEE ;
+    margin-left: 100px;
+    margin-right: 150px;
+     
+}
+
+.part1{
+    float:left;
+    background-color: #7EE5DA;
+    width: 35%;
+    height: 70px;
+    text-align: center;
+    padding: 20px;
+}
+
+.part2{
+    float: left;
+    background-color: #70CCC2;
+    width: 15%;
+    height: 70px;
+    text-align: center;
+     padding: 20px;
+}
+
+.part3{
+    float: left;
+    background-color:#62B3AA ;
+    width: 35%;
+    height: 70px;
+    text-align: center;
+     padding: 20px;
+   
+}
+.footer{
+    float: left;
+  text-align: center;
+  height: 50px;
+  width: 100%;
+  padding: 15px;
+  font-size: 13px;
+}
+
+.asides{
+    margin-left: 100px;
+
+}
